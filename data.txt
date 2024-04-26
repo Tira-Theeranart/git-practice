@@ -1,3 +1,4 @@
 Name: Theeranart
 Age: 33
 Favorite Color: Orange
+Favorite animal : Cat
